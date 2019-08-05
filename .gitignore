@@ -1,4 +1,5 @@
 .DS_Store
-y.pickle
-X.pickle
-.ipynb_checkpoints
+
+# ignore python pickle files
+*.pickle
+*.p
